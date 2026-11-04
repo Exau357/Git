@@ -1,4 +1,2 @@
-service:
-  name: webapp
-  port: 8000
-  log_level: info
+
+
