@@ -1,0 +1,4 @@
+service:
+  name: webapp
+  port: 9090
+  log_level: info
